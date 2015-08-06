@@ -1,3 +1,4 @@
+# some comment
 from django.conf.urls import include, url
 from lists import views as list_views
 from lists import urls as list_urls
